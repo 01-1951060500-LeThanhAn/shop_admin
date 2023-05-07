@@ -8,12 +8,8 @@ import { useNavigate } from "react-router-dom";
 const Container = styled.div`
   width: 100vw;
   height: 100vh;
-  background: linear-gradient(
-      rgba(255, 255, 255, 0.5),
-      rgba(255, 255, 255, 0.5)
-    ),
-    url("https://images.pexels.com/photos/6984650/pexels-photo-6984650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940")
-      center;
+  background: url("https://img.freepik.com/free-vector/gradient-galaxy-background_23-2148983655.jpg?w=1060&t=st=1683430689~exp=1683431289~hmac=10be8d39886980e74acfb6de64c14eaef1002d296008a38557ce722e6571ecb6")
+    center;
   background-size: cover;
   display: flex;
   z-index: 100;
